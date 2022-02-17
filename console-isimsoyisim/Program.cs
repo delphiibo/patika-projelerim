@@ -6,7 +6,12 @@ namespace console_isimsoyisim
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Lütfen isminizi giriniz: ");
+            string name = Console.ReadLine();
+            Console.WriteLine("Lütfen soyisminizi giriniz: ");
+            string surname = Console.ReadLine();
+            Console.WriteLine("Merhaba " + name + " "+ surname);
+            Console.ReadLine();
         }
     }
 }
