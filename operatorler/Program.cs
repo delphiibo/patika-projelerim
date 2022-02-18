@@ -73,9 +73,6 @@ namespace operatorler
 
             int sonuc2 = 20%3;
             Console.WriteLine(sonuc2);
-            
-            bool dene1 = 1^2;
-             Console.WriteLine(dene1);
 
         }
     }
