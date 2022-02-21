@@ -1,0 +1,16 @@
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\diziler-array-sinifi-metodlari\bin\Debug\net5.0\diziler-array-sinifi-metodlari.exe
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\diziler-array-sinifi-metodlari\bin\Debug\net5.0\diziler-array-sinifi-metodlari.deps.json
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\diziler-array-sinifi-metodlari\bin\Debug\net5.0\diziler-array-sinifi-metodlari.runtimeconfig.json
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\diziler-array-sinifi-metodlari\bin\Debug\net5.0\diziler-array-sinifi-metodlari.runtimeconfig.dev.json
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\diziler-array-sinifi-metodlari\bin\Debug\net5.0\diziler-array-sinifi-metodlari.dll
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\diziler-array-sinifi-metodlari\bin\Debug\net5.0\ref\diziler-array-sinifi-metodlari.dll
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\diziler-array-sinifi-metodlari\bin\Debug\net5.0\diziler-array-sinifi-metodlari.pdb
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\diziler-array-sinifi-metodlari\obj\Debug\net5.0\diziler-array-sinifi-metodlari.csproj.AssemblyReference.cache
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\diziler-array-sinifi-metodlari\obj\Debug\net5.0\diziler-array-sinifi-metodlari.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\diziler-array-sinifi-metodlari\obj\Debug\net5.0\diziler-array-sinifi-metodlari.AssemblyInfoInputs.cache
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\diziler-array-sinifi-metodlari\obj\Debug\net5.0\diziler-array-sinifi-metodlari.AssemblyInfo.cs
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\diziler-array-sinifi-metodlari\obj\Debug\net5.0\diziler-array-sinifi-metodlari.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\diziler-array-sinifi-metodlari\obj\Debug\net5.0\diziler-array-sinifi-metodlari.dll
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\diziler-array-sinifi-metodlari\obj\Debug\net5.0\ref\diziler-array-sinifi-metodlari.dll
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\diziler-array-sinifi-metodlari\obj\Debug\net5.0\diziler-array-sinifi-metodlari.pdb
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\diziler-array-sinifi-metodlari\obj\Debug\net5.0\diziler-array-sinifi-metodlari.genruntimeconfig.cache
