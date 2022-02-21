@@ -1,0 +1,16 @@
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\diziler\bin\Debug\net5.0\diziler.exe
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\diziler\bin\Debug\net5.0\diziler.deps.json
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\diziler\bin\Debug\net5.0\diziler.runtimeconfig.json
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\diziler\bin\Debug\net5.0\diziler.runtimeconfig.dev.json
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\diziler\bin\Debug\net5.0\diziler.dll
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\diziler\bin\Debug\net5.0\ref\diziler.dll
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\diziler\bin\Debug\net5.0\diziler.pdb
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\diziler\obj\Debug\net5.0\diziler.csproj.AssemblyReference.cache
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\diziler\obj\Debug\net5.0\diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\diziler\obj\Debug\net5.0\diziler.AssemblyInfoInputs.cache
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\diziler\obj\Debug\net5.0\diziler.AssemblyInfo.cs
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\diziler\obj\Debug\net5.0\diziler.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\diziler\obj\Debug\net5.0\diziler.dll
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\diziler\obj\Debug\net5.0\ref\diziler.dll
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\diziler\obj\Debug\net5.0\diziler.pdb
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\diziler\obj\Debug\net5.0\diziler.genruntimeconfig.cache
