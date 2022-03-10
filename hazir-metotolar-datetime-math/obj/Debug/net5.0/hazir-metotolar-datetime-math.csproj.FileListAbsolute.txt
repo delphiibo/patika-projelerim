@@ -1,0 +1,16 @@
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\hazir-metotolar-datetime-math\bin\Debug\net5.0\hazir-metotolar-datetime-math.exe
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\hazir-metotolar-datetime-math\bin\Debug\net5.0\hazir-metotolar-datetime-math.deps.json
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\hazir-metotolar-datetime-math\bin\Debug\net5.0\hazir-metotolar-datetime-math.runtimeconfig.json
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\hazir-metotolar-datetime-math\bin\Debug\net5.0\hazir-metotolar-datetime-math.runtimeconfig.dev.json
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\hazir-metotolar-datetime-math\bin\Debug\net5.0\hazir-metotolar-datetime-math.dll
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\hazir-metotolar-datetime-math\bin\Debug\net5.0\ref\hazir-metotolar-datetime-math.dll
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\hazir-metotolar-datetime-math\bin\Debug\net5.0\hazir-metotolar-datetime-math.pdb
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\hazir-metotolar-datetime-math\obj\Debug\net5.0\hazir-metotolar-datetime-math.csproj.AssemblyReference.cache
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\hazir-metotolar-datetime-math\obj\Debug\net5.0\hazir-metotolar-datetime-math.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\hazir-metotolar-datetime-math\obj\Debug\net5.0\hazir-metotolar-datetime-math.AssemblyInfoInputs.cache
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\hazir-metotolar-datetime-math\obj\Debug\net5.0\hazir-metotolar-datetime-math.AssemblyInfo.cs
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\hazir-metotolar-datetime-math\obj\Debug\net5.0\hazir-metotolar-datetime-math.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\hazir-metotolar-datetime-math\obj\Debug\net5.0\hazir-metotolar-datetime-math.dll
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\hazir-metotolar-datetime-math\obj\Debug\net5.0\ref\hazir-metotolar-datetime-math.dll
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\hazir-metotolar-datetime-math\obj\Debug\net5.0\hazir-metotolar-datetime-math.pdb
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\hazir-metotolar-datetime-math\obj\Debug\net5.0\hazir-metotolar-datetime-math.genruntimeconfig.cache
