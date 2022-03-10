@@ -36,9 +36,9 @@ namespace Koleksiyonlar_Soru_3
                 if (Array.IndexOf(vowels,sentence[i])>-1)
                     vowelList.Add(sentence[i].ToString().ToLower());
             }
-            Console.WriteLine("Girdiğiniz Cümle İçerisinde Toplam {0} Sesli Harf Var.",vowelList.Count);
+            Console.WriteLine("Girdiğiniz cümle içerisinde toplam {0} sesli harf kullanılmış.",vowelList.Count);
             vowelList.Sort();
-            Console.WriteLine("Sesli harlerin listesi : ");
+            Console.WriteLine("Sesli harflerin listesi : ");
             Dictionary<string,int> liste = LetterCalc(vowelList);
             foreach (var item in liste)
                 Console.WriteLine("{0} harfi {1} kere tekrar ediyor",item.Key,item.Value);
