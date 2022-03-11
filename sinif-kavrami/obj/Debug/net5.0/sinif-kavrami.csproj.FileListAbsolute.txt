@@ -1,0 +1,16 @@
+C:\Users\ibrahim.dag\desktop\patika\patika-projelerim\sinif-kavrami\bin\Debug\net5.0\sinif-kavrami.exe
+C:\Users\ibrahim.dag\desktop\patika\patika-projelerim\sinif-kavrami\bin\Debug\net5.0\sinif-kavrami.deps.json
+C:\Users\ibrahim.dag\desktop\patika\patika-projelerim\sinif-kavrami\bin\Debug\net5.0\sinif-kavrami.runtimeconfig.json
+C:\Users\ibrahim.dag\desktop\patika\patika-projelerim\sinif-kavrami\bin\Debug\net5.0\sinif-kavrami.runtimeconfig.dev.json
+C:\Users\ibrahim.dag\desktop\patika\patika-projelerim\sinif-kavrami\bin\Debug\net5.0\sinif-kavrami.dll
+C:\Users\ibrahim.dag\desktop\patika\patika-projelerim\sinif-kavrami\bin\Debug\net5.0\ref\sinif-kavrami.dll
+C:\Users\ibrahim.dag\desktop\patika\patika-projelerim\sinif-kavrami\bin\Debug\net5.0\sinif-kavrami.pdb
+C:\Users\ibrahim.dag\desktop\patika\patika-projelerim\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.csproj.AssemblyReference.cache
+C:\Users\ibrahim.dag\desktop\patika\patika-projelerim\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahim.dag\desktop\patika\patika-projelerim\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.AssemblyInfoInputs.cache
+C:\Users\ibrahim.dag\desktop\patika\patika-projelerim\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.AssemblyInfo.cs
+C:\Users\ibrahim.dag\desktop\patika\patika-projelerim\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim.dag\desktop\patika\patika-projelerim\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.dll
+C:\Users\ibrahim.dag\desktop\patika\patika-projelerim\sinif-kavrami\obj\Debug\net5.0\ref\sinif-kavrami.dll
+C:\Users\ibrahim.dag\desktop\patika\patika-projelerim\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.pdb
+C:\Users\ibrahim.dag\desktop\patika\patika-projelerim\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.genruntimeconfig.cache
