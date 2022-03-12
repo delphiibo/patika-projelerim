@@ -1,0 +1,16 @@
+C:\Users\Güvenlik\Desktop\patika\patika-projelerim\struct-kavrami\bin\Debug\net5.0\struct-kavrami.exe
+C:\Users\Güvenlik\Desktop\patika\patika-projelerim\struct-kavrami\bin\Debug\net5.0\struct-kavrami.deps.json
+C:\Users\Güvenlik\Desktop\patika\patika-projelerim\struct-kavrami\bin\Debug\net5.0\struct-kavrami.runtimeconfig.json
+C:\Users\Güvenlik\Desktop\patika\patika-projelerim\struct-kavrami\bin\Debug\net5.0\struct-kavrami.runtimeconfig.dev.json
+C:\Users\Güvenlik\Desktop\patika\patika-projelerim\struct-kavrami\bin\Debug\net5.0\struct-kavrami.dll
+C:\Users\Güvenlik\Desktop\patika\patika-projelerim\struct-kavrami\bin\Debug\net5.0\struct-kavrami.pdb
+C:\Users\Güvenlik\Desktop\patika\patika-projelerim\struct-kavrami\obj\Debug\net5.0\struct-kavrami.csproj.AssemblyReference.cache
+C:\Users\Güvenlik\Desktop\patika\patika-projelerim\struct-kavrami\obj\Debug\net5.0\struct-kavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Güvenlik\Desktop\patika\patika-projelerim\struct-kavrami\obj\Debug\net5.0\struct-kavrami.AssemblyInfoInputs.cache
+C:\Users\Güvenlik\Desktop\patika\patika-projelerim\struct-kavrami\obj\Debug\net5.0\struct-kavrami.AssemblyInfo.cs
+C:\Users\Güvenlik\Desktop\patika\patika-projelerim\struct-kavrami\obj\Debug\net5.0\struct-kavrami.csproj.CoreCompileInputs.cache
+C:\Users\Güvenlik\Desktop\patika\patika-projelerim\struct-kavrami\obj\Debug\net5.0\struct-kavrami.dll
+C:\Users\Güvenlik\Desktop\patika\patika-projelerim\struct-kavrami\obj\Debug\net5.0\refint\struct-kavrami.dll
+C:\Users\Güvenlik\Desktop\patika\patika-projelerim\struct-kavrami\obj\Debug\net5.0\struct-kavrami.pdb
+C:\Users\Güvenlik\Desktop\patika\patika-projelerim\struct-kavrami\obj\Debug\net5.0\struct-kavrami.genruntimeconfig.cache
+C:\Users\Güvenlik\Desktop\patika\patika-projelerim\struct-kavrami\obj\Debug\net5.0\ref\struct-kavrami.dll
