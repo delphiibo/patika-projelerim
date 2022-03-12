@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "Xa4Utfr+Aln+4SdUPXRlgumiGVJ5UPkSJT1N0aRgOk1wQulN4jIJ+TaBtAdlGMNJEdPK59mpEc66JPKnoSEybA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Güvenlik\\Desktop\\patika-projelerim\\static-sinif-ve-uyeler\\static-sinif-ve-uyeler.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Önbellek dosyası C:\\Users\\Güvenlik\\Desktop\\patika-projelerim\\static-sinif-ve-uyeler\\obj\\project.nuget.cache okunurken bir sorun oluştu : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
+}

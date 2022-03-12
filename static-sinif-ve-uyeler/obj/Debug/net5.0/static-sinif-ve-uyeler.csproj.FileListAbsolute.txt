@@ -1,0 +1,35 @@
+<<<<<<< HEAD
+C:\Users\Güvenlik\Desktop\patika-projelerim\static-sinif-ve-uyeler\bin\Debug\net5.0\static-sinif-ve-uyeler.exe
+C:\Users\Güvenlik\Desktop\patika-projelerim\static-sinif-ve-uyeler\bin\Debug\net5.0\static-sinif-ve-uyeler.deps.json
+C:\Users\Güvenlik\Desktop\patika-projelerim\static-sinif-ve-uyeler\bin\Debug\net5.0\static-sinif-ve-uyeler.runtimeconfig.json
+C:\Users\Güvenlik\Desktop\patika-projelerim\static-sinif-ve-uyeler\bin\Debug\net5.0\static-sinif-ve-uyeler.runtimeconfig.dev.json
+C:\Users\Güvenlik\Desktop\patika-projelerim\static-sinif-ve-uyeler\bin\Debug\net5.0\static-sinif-ve-uyeler.dll
+C:\Users\Güvenlik\Desktop\patika-projelerim\static-sinif-ve-uyeler\bin\Debug\net5.0\static-sinif-ve-uyeler.pdb
+C:\Users\Güvenlik\Desktop\patika-projelerim\static-sinif-ve-uyeler\obj\Debug\net5.0\static-sinif-ve-uyeler.csproj.AssemblyReference.cache
+C:\Users\Güvenlik\Desktop\patika-projelerim\static-sinif-ve-uyeler\obj\Debug\net5.0\static-sinif-ve-uyeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Güvenlik\Desktop\patika-projelerim\static-sinif-ve-uyeler\obj\Debug\net5.0\static-sinif-ve-uyeler.AssemblyInfoInputs.cache
+C:\Users\Güvenlik\Desktop\patika-projelerim\static-sinif-ve-uyeler\obj\Debug\net5.0\static-sinif-ve-uyeler.AssemblyInfo.cs
+C:\Users\Güvenlik\Desktop\patika-projelerim\static-sinif-ve-uyeler\obj\Debug\net5.0\static-sinif-ve-uyeler.csproj.CoreCompileInputs.cache
+C:\Users\Güvenlik\Desktop\patika-projelerim\static-sinif-ve-uyeler\obj\Debug\net5.0\static-sinif-ve-uyeler.dll
+C:\Users\Güvenlik\Desktop\patika-projelerim\static-sinif-ve-uyeler\obj\Debug\net5.0\refint\static-sinif-ve-uyeler.dll
+C:\Users\Güvenlik\Desktop\patika-projelerim\static-sinif-ve-uyeler\obj\Debug\net5.0\static-sinif-ve-uyeler.pdb
+C:\Users\Güvenlik\Desktop\patika-projelerim\static-sinif-ve-uyeler\obj\Debug\net5.0\static-sinif-ve-uyeler.genruntimeconfig.cache
+C:\Users\Güvenlik\Desktop\patika-projelerim\static-sinif-ve-uyeler\obj\Debug\net5.0\ref\static-sinif-ve-uyeler.dll
+=======
+C:\Users\ibrahim.dag\desktop\patika\patika-projelerim\static-sinif-ve-uyeler\obj\Debug\net5.0\static-sinif-ve-uyeler.csproj.AssemblyReference.cache
+C:\Users\ibrahim.dag\desktop\patika\patika-projelerim\static-sinif-ve-uyeler\obj\Debug\net5.0\static-sinif-ve-uyeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahim.dag\desktop\patika\patika-projelerim\static-sinif-ve-uyeler\obj\Debug\net5.0\static-sinif-ve-uyeler.AssemblyInfoInputs.cache
+C:\Users\ibrahim.dag\desktop\patika\patika-projelerim\static-sinif-ve-uyeler\obj\Debug\net5.0\static-sinif-ve-uyeler.AssemblyInfo.cs
+C:\Users\ibrahim.dag\desktop\patika\patika-projelerim\static-sinif-ve-uyeler\obj\Debug\net5.0\static-sinif-ve-uyeler.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim.dag\desktop\patika\patika-projelerim\static-sinif-ve-uyeler\bin\Debug\net5.0\static-sinif-ve-uyeler.exe
+C:\Users\ibrahim.dag\desktop\patika\patika-projelerim\static-sinif-ve-uyeler\bin\Debug\net5.0\static-sinif-ve-uyeler.deps.json
+C:\Users\ibrahim.dag\desktop\patika\patika-projelerim\static-sinif-ve-uyeler\bin\Debug\net5.0\static-sinif-ve-uyeler.runtimeconfig.json
+C:\Users\ibrahim.dag\desktop\patika\patika-projelerim\static-sinif-ve-uyeler\bin\Debug\net5.0\static-sinif-ve-uyeler.runtimeconfig.dev.json
+C:\Users\ibrahim.dag\desktop\patika\patika-projelerim\static-sinif-ve-uyeler\bin\Debug\net5.0\static-sinif-ve-uyeler.dll
+C:\Users\ibrahim.dag\desktop\patika\patika-projelerim\static-sinif-ve-uyeler\bin\Debug\net5.0\ref\static-sinif-ve-uyeler.dll
+C:\Users\ibrahim.dag\desktop\patika\patika-projelerim\static-sinif-ve-uyeler\bin\Debug\net5.0\static-sinif-ve-uyeler.pdb
+C:\Users\ibrahim.dag\desktop\patika\patika-projelerim\static-sinif-ve-uyeler\obj\Debug\net5.0\static-sinif-ve-uyeler.dll
+C:\Users\ibrahim.dag\desktop\patika\patika-projelerim\static-sinif-ve-uyeler\obj\Debug\net5.0\ref\static-sinif-ve-uyeler.dll
+C:\Users\ibrahim.dag\desktop\patika\patika-projelerim\static-sinif-ve-uyeler\obj\Debug\net5.0\static-sinif-ve-uyeler.pdb
+C:\Users\ibrahim.dag\desktop\patika\patika-projelerim\static-sinif-ve-uyeler\obj\Debug\net5.0\static-sinif-ve-uyeler.genruntimeconfig.cache
+>>>>>>> 092f8dfeb03dedc3f9171ff4db98ac997a77e5c2
