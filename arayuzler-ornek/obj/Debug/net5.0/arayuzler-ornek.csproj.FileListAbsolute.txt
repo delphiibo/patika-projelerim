@@ -1,0 +1,16 @@
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\arayuzler-ornek\obj\Debug\net5.0\arayuzler-ornek.csproj.AssemblyReference.cache
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\arayuzler-ornek\obj\Debug\net5.0\arayuzler-ornek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\arayuzler-ornek\obj\Debug\net5.0\arayuzler-ornek.AssemblyInfoInputs.cache
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\arayuzler-ornek\obj\Debug\net5.0\arayuzler-ornek.AssemblyInfo.cs
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\arayuzler-ornek\obj\Debug\net5.0\arayuzler-ornek.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\arayuzler-ornek\bin\Debug\net5.0\arayuzler-ornek.exe
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\arayuzler-ornek\bin\Debug\net5.0\arayuzler-ornek.deps.json
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\arayuzler-ornek\bin\Debug\net5.0\arayuzler-ornek.runtimeconfig.json
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\arayuzler-ornek\bin\Debug\net5.0\arayuzler-ornek.runtimeconfig.dev.json
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\arayuzler-ornek\bin\Debug\net5.0\arayuzler-ornek.dll
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\arayuzler-ornek\bin\Debug\net5.0\ref\arayuzler-ornek.dll
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\arayuzler-ornek\bin\Debug\net5.0\arayuzler-ornek.pdb
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\arayuzler-ornek\obj\Debug\net5.0\arayuzler-ornek.dll
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\arayuzler-ornek\obj\Debug\net5.0\ref\arayuzler-ornek.dll
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\arayuzler-ornek\obj\Debug\net5.0\arayuzler-ornek.pdb
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\arayuzler-ornek\obj\Debug\net5.0\arayuzler-ornek.genruntimeconfig.cache

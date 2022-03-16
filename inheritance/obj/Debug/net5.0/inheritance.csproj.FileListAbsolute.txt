@@ -1,0 +1,16 @@
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\inheritance\bin\Debug\net5.0\inheritance.exe
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\inheritance\bin\Debug\net5.0\inheritance.deps.json
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\inheritance\bin\Debug\net5.0\inheritance.runtimeconfig.json
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\inheritance\bin\Debug\net5.0\inheritance.runtimeconfig.dev.json
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\inheritance\bin\Debug\net5.0\inheritance.dll
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\inheritance\bin\Debug\net5.0\ref\inheritance.dll
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\inheritance\bin\Debug\net5.0\inheritance.pdb
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\inheritance\obj\Debug\net5.0\inheritance.csproj.AssemblyReference.cache
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\inheritance\obj\Debug\net5.0\inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\inheritance\obj\Debug\net5.0\inheritance.AssemblyInfoInputs.cache
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\inheritance\obj\Debug\net5.0\inheritance.AssemblyInfo.cs
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\inheritance\obj\Debug\net5.0\inheritance.csproj.CoreCompileInputs.cache
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\inheritance\obj\Debug\net5.0\inheritance.dll
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\inheritance\obj\Debug\net5.0\ref\inheritance.dll
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\inheritance\obj\Debug\net5.0\inheritance.pdb
+C:\Users\ibrahim.dag\Desktop\Patika\patika-projelerim\inheritance\obj\Debug\net5.0\inheritance.genruntimeconfig.cache
