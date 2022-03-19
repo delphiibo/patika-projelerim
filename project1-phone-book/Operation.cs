@@ -65,7 +65,6 @@ namespace project1_phone_book
                 string command = Console.ReadLine();
                 if (command == "1")
                 {
-
                     string isimsoyisim = Library.NullControl("Lütfen İsim veya soyisim giriniz:", "İsim soyisim bilgisi boş geçilemez!");
                     list = phoneBook.Find(isimsoyisim, isimsoyisim, "");
                     state = false;
