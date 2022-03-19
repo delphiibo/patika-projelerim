@@ -6,26 +6,17 @@ namespace project1_phone_book
     public class PhoneBook
     {
         private List<PhoneBookModel> phoneBook;
-        public PhoneBook(){
-           phoneBook = new List<PhoneBookModel>();
-        }
-
-        public List<PhoneBookModel> List(bool DESC)
+        public PhoneBook()
         {
-            if (DESC==true)
-            {
-                phoneBook.Sort();
-                phoneBook.Reverse();
-                return phoneBook;
-            }
-            else
-            {
-                phoneBook.Sort();
-                return phoneBook;
-            }
+            phoneBook = new List<PhoneBookModel>();
         }
 
-        public void Add(string isim,string soyisim,string telefon)
+        public List<PhoneBookModel> List()
+        {
+            return phoneBook;
+        }
+
+        public void Add(string isim, string soyisim, string telefon)
         {
             PhoneBookModel phoneBookModel = new PhoneBookModel();
             phoneBookModel.Isim = isim;
@@ -38,17 +29,17 @@ namespace project1_phone_book
         {
             phoneBook.Remove(phoneBookModel);
         }
-        
-        public List<PhoneBookModel> Find(string keyword)
+
+        public List<PhoneBookModel> Find(string isim, string soyisim, string telefon)
         {
-            List<PhoneBookModel> result =  new List<PhoneBookModel>();
+            List<PhoneBookModel> result = new List<PhoneBookModel>();
             foreach (var item in phoneBook)
             {
-                if (item.Isim==keyword || item.Soyisim==keyword)
+                if (item.Isim.ToLower() == isim.ToLower() || item.Soyisim.ToLower() == soyisim.ToLower() || item.Telefon == telefon)
                     result.Add(item);
             }
             return result;
         }
-        
+
     }
 }

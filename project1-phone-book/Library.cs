@@ -5,14 +5,15 @@ namespace project1_phone_book
 {
     static class Library
     {
-        public static string nullControl(string writeTxt,string NullTxt)
+        public static string NullControl(string writeTxt, string nullTxt)
         {
             Console.Write(writeTxt);
             string value = Console.ReadLine();
-            if (value==""){
-                Console.WriteLine(NullTxt);
-                return nullControl(writeTxt,NullTxt);
-            } 
+            if (value == "")
+            {
+                Console.WriteLine(nullTxt);
+                return NullControl(writeTxt, nullTxt);
+            }
             else
                 return value;
         }
@@ -24,11 +25,11 @@ namespace project1_phone_book
         }
         public static bool Confirm(string msg)
         {
-            Console.Write( msg + " (y/n)");
+            Console.Write(msg + " (y/n)");
             string command = Console.ReadLine();
-            if (command=="y")
+            if (command == "y")
                 return true;
-            else if (command=="n")
+            else if (command == "n")
                 return false;
             else
             {
@@ -39,7 +40,7 @@ namespace project1_phone_book
 
         public static void WriteStarLine(string msg)
         {
-            Console.WriteLine("********** {0} **********",msg);
+            Console.WriteLine("********** {0} **********", msg);
         }
 
         public static void WriteStarEnd()
