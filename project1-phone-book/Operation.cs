@@ -82,7 +82,6 @@ namespace project1_phone_book
                     Console.WriteLine("Seçeneklerde olmayan rakam girdiniz!");
                     Console.WriteLine("İsim veya soyisime göre arama yapmak için: (1)");
                     Console.WriteLine("Telefon numarasına göre arama yapmak için: (2)");
-                    state = false;
                     continue;
                 }
             }
