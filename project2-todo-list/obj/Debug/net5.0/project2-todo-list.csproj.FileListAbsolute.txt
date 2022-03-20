@@ -1,0 +1,16 @@
+C:\Users\Güvenlik\Desktop\patika\patika-projelerim\project2-todo-list\obj\Debug\net5.0\project2-todo-list.csproj.AssemblyReference.cache
+C:\Users\Güvenlik\Desktop\patika\patika-projelerim\project2-todo-list\obj\Debug\net5.0\project2-todo-list.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Güvenlik\Desktop\patika\patika-projelerim\project2-todo-list\obj\Debug\net5.0\project2-todo-list.AssemblyInfoInputs.cache
+C:\Users\Güvenlik\Desktop\patika\patika-projelerim\project2-todo-list\obj\Debug\net5.0\project2-todo-list.AssemblyInfo.cs
+C:\Users\Güvenlik\Desktop\patika\patika-projelerim\project2-todo-list\obj\Debug\net5.0\project2-todo-list.csproj.CoreCompileInputs.cache
+C:\Users\Güvenlik\Desktop\patika\patika-projelerim\project2-todo-list\bin\Debug\net5.0\project2-todo-list.exe
+C:\Users\Güvenlik\Desktop\patika\patika-projelerim\project2-todo-list\bin\Debug\net5.0\project2-todo-list.deps.json
+C:\Users\Güvenlik\Desktop\patika\patika-projelerim\project2-todo-list\bin\Debug\net5.0\project2-todo-list.runtimeconfig.json
+C:\Users\Güvenlik\Desktop\patika\patika-projelerim\project2-todo-list\bin\Debug\net5.0\project2-todo-list.runtimeconfig.dev.json
+C:\Users\Güvenlik\Desktop\patika\patika-projelerim\project2-todo-list\bin\Debug\net5.0\project2-todo-list.dll
+C:\Users\Güvenlik\Desktop\patika\patika-projelerim\project2-todo-list\bin\Debug\net5.0\project2-todo-list.pdb
+C:\Users\Güvenlik\Desktop\patika\patika-projelerim\project2-todo-list\obj\Debug\net5.0\project2-todo-list.dll
+C:\Users\Güvenlik\Desktop\patika\patika-projelerim\project2-todo-list\obj\Debug\net5.0\refint\project2-todo-list.dll
+C:\Users\Güvenlik\Desktop\patika\patika-projelerim\project2-todo-list\obj\Debug\net5.0\project2-todo-list.pdb
+C:\Users\Güvenlik\Desktop\patika\patika-projelerim\project2-todo-list\obj\Debug\net5.0\project2-todo-list.genruntimeconfig.cache
+C:\Users\Güvenlik\Desktop\patika\patika-projelerim\project2-todo-list\obj\Debug\net5.0\ref\project2-todo-list.dll
